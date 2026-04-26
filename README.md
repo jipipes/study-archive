@@ -19,7 +19,8 @@ While some of this content may not be directly useful to you, I hope that at lea
 ---
 
 #### Data Engineering
-- [OLTP vs. OLAP 비교 분석](./Data%20Engineering/OLTP-vs-OLAP.md)
+- [OLTP vs. OLAP 비교 분석](./Data_Engineering/OLTP-vs-OLAP.md)
+
 ---
 
 #### DevOps
