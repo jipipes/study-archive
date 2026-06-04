@@ -44,7 +44,12 @@ ___
 ---
 
 #### Operating System
+<<<<<<< HEAD
 - [Race Condition](./Operating_System/race_condition.md)
+=======
+- [Race Condition](./Operating_System/race_condition.md)
+- [Deadlock vs. Livelock](./Operating_System/deadlock_livelock.md)
+>>>>>>> 1319ff5 (fix: add index to docs)
 
 ---
 
