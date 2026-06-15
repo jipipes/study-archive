@@ -50,6 +50,8 @@ ___
 ---
 
 #### Design Pattern
+- [Parameter Server Pattern](./Design_Pattern/parameter_server_pattern.md)
+- [Work-Queue Pattern](./Design_Pattern/work_queue_pattern.md)
 
 ---
 
