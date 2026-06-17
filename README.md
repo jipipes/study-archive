@@ -50,12 +50,13 @@ ___
 ---
 
 #### Design Pattern
-- [Parameter Server Pattern](./Design_Pattern/parameter_server_pattern.md)
-- [Work-Queue Pattern](./Design_Pattern/work_queue_pattern.md)
-- [Batch Processing Pattern](./Design_Pattern/batch_processing_pattern.md)
-- [Sharding Pattern](./Design_Pattern/sharding_pattern.md)
-- [Caching Pattern](./Design_Pattern/caching_pattern.md)
-
+- [Parameter Server Pattern](./Design_Pattern/parameter-server-pattern.md)
+- [Work-Queue Pattern](./Design_Pattern/work-queue-pattern.md)
+- [Batch Processing Pattern](./Design_Pattern/batch-processing-pattern.md)
+- [Sharding Pattern](./Design_Pattern/sharding-pattern.md)
+- [Caching Pattern](./Design_Pattern/caching-pattern.md)
+- [Collective Communication Pattern](./Design_Pattern/collective-communication-pattern.md)
+- [Fault Tolerance Pattern](./Design_Pattern/fault-tolerance-pattern.md)
 ---
 
 #### Data Structure

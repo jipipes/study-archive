@@ -1,4 +1,4 @@
-# Parameter Server Pattern (파라미터 서버 패턴)
+# Parameter Server Pattern
 
 ## 개념
 
@@ -27,7 +27,7 @@
 
 ---
 
-## 패턴 없이 발생하는 문제
+## 발생하는 문제
 
 ```python
 # 모든 Worker가 각자 파라미터 복사본을 들고 처리하는 경우
